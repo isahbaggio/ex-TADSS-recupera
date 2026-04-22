@@ -1,7 +1,5 @@
 # Jantar dos Filósofos (Java)
 
-Implementação simples para trabalho de Programação Concorrente.
-
 ## Arquivos
 
 - `src/Garfo.java`
